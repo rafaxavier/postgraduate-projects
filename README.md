@@ -3,20 +3,20 @@ A repository containing some of my postgraduate projects in Distributed Software
 
 ## CONTEÚDO DO CURSO
 <details>
-<summary><b>Arquitetura de Front end</b></summary>
+<summary><b>Arquitetura de Front-end</b></summary>
 
 - Ambiente de desenvolvimento moderno: IDEs, package managers, loaders, bundlers
 - Abordagem Mobile First e Responsividade
 - Frameworks e Pré-processadores CSS
 - Abordagens arquiteturais para CSS (BEM, SMACSS, OOCSS, RSCSS, CSS-in-JS)
-- Abordagens arquiteturais de front end: Single Page Applications (SPA), Progressive Web Apps (PWA), Server-Side Rendering (SSR), Web Assembly e Micro frontends
-- Aspectos de segurança no front end
+- Abordagens arquiteturais de front-end: Single Page Applications (SPA), Progressive Web Apps (PWA), Server-Side Rendering (SSR), Web Assembly e Micro frontends
+- Aspectos de segurança no front-end
 - Otimização para motores de busca (SEO)
 
 </details>
 
 <details>
-<summary><b>Arquitetura de Back end</b></summary>
+<summary><b>Arquitetura de Back-end</b></summary>
 
 - Distribuição de camadas, persistência, segurança, performance, escalabilidade, disponibilidade e interoperabilidade
 - Estilos arquiteturais: Cliente-servidor, Monolítico, Multicamadas, Model-view-Controller (MVC), MVVM, SOA, microsserviços, nanoserviços, orientado por eventos, publish-subscribe, plugins, DSL. P2P. Pipes and filters
